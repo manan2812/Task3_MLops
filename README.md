@@ -11,7 +11,7 @@ Pre-requisite:
 
 
 
-JOB: I have made deeplearning model which already have some layers added for classification ,uses keras for predicting from the mnist dataset. --Load the image from dockers that have keras installed using docker. --Create a pipeline of job1,job2,job3,job4,job5.
+I have made deeplearning model which already have some layers added for classification ,uses keras for predicting from the mnist dataset. Load the image from dockers that have keras installed using docker. --Create a pipeline 
 
 Job1 - Load the image that have keras installed in dockerfile.
 
