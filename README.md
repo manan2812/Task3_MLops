@@ -5,6 +5,9 @@ This task is to automate the process of a perfect model creation by changing the
 Pre-requisite:
 
 Jenkins
+
 Docker
+
 Github
+
 Machine learning model
